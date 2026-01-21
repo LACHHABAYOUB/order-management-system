@@ -4,6 +4,9 @@ A production-ready **Order Management System** built with **Spring Boot 3 (Java 
 
 This project demonstrates real-world backend engineering practices: clean architecture, security, database migrations, audit logging, idempotency, integration testing, and Dockerized deployment.
 
+
+<img width="1024" height="1536" alt="Architecture" src="https://github.com/user-attachments/assets/52a2b29c-c7c7-4404-8cfe-788f2eb506ca" />
+
 ---
 
 ## 🧱 Architecture Overview
@@ -120,4 +123,5 @@ docs/postman/Order-Service.postman_collection.json
 ## 👨‍💻 Author
 
 Ayoub Lachhab
+
 Senior Software Engineer
