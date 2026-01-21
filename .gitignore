@@ -1,0 +1,18 @@
+# Java / Maven
+target/
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+ECHO is on.
+# Node / Frontend
+node_modules/
+dist/
+build/
+.env
+.env.*
+ECHO is on.
+# OS
+.DS_Store
+Thumbs.db
